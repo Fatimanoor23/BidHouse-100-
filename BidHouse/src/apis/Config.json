@@ -1,0 +1,20 @@
+{
+    "apiUrl":"https://e-bit-point-apis.herokuapp.com/",
+    "signUp":"https://e-bit-point-apis.herokuapp.com/users/signup",
+    "signIn":"https://e-bit-point-apis.herokuapp.com/users/login",
+    "forgetPassword":"https://e-bit-point-apis.herokuapp.com/users/resetpassword",
+    "logOut":"https://e-bit-point-apis.herokuapp.com/users/me/logout",
+    "allAccountsLogOut":"https://e-bit-point-apis.herokuapp.com/users/me/logoutall",
+    "profileInfo":"https://e-bit-point-apis.herokuapp.com/users/me",
+    "editProfileInfo":"https://e-bit-point-apis.herokuapp.com/users/me/editprofile",
+    "lastMessages":"https://e-bit-point-apis.herokuapp.com/lastmessages",
+    "messages":"https://e-bit-point-apis.herokuapp.com/messages",
+    "getmessages":"https://e-bit-point-apis.herokuapp.com/getmessages",
+    "uploadProduct":"https://e-bit-point-apis.herokuapp.com/users/postproduct",
+    "saledProduct":"https://e-bit-point-apis.herokuapp.com/users/saledproduct",
+    "fetchUserAllProducts":"https://e-bit-point-apis.herokuapp.com/users/me/products",
+    "confirmProducts":"https://e-bit-point-apis.herokuapp.com/pending/products",
+    "fetchCurrentProducts":"https://e-bit-point-apis.herokuapp.com/current/products",
+    "uploadBid":"https://e-bit-point-apis.herokuapp.com/users/postbid",
+    "fetchUserAllBids":"https://e-bit-point-apis.herokuapp.com/users/me/bids"
+}
